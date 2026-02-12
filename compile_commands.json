@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/workspace",
+    "command": "g++ -std=c++17 hal.cpp -o hal.exe",
+    "file": "hal.cpp"
+  }
+]
